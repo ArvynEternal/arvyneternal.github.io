@@ -29,6 +29,9 @@
   display: block;
   width: auto;
 }
+.button:hover:not(.active) {
+   background-color: lightgrey;
+}
 
 .content-canvas {
   margin-top: 0.5%;
