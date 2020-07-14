@@ -6,6 +6,10 @@
     <title>Test Site</title>
     
     <style>
+      * {
+        color: white;
+      }
+      
       .canvas {
         display: flex;
         justify-content: center;
@@ -42,11 +46,14 @@
       }
       .content-navigation {
         padding: 1%;
+        background-color: #000000;
+        margin-right: 0.5%;
         
         width: 20%;
       }
       .content {
         padding: 1%;
+        background-color: #000000;
       
         width: 80%;
       }
