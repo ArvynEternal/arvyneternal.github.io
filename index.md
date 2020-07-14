@@ -52,7 +52,8 @@
         width: 20%;
       }
       .content {
-        padding: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
         background-color: #000000;
       
         width: 80%;
@@ -70,7 +71,7 @@
         
         <div class="content-canvas">
           <div class="content-navigation">
-            <a class ="button active is-fullwidth" href="index.html">Index</a>
+            <a class ="button active is-fullwidth" href="index.md">Index</a>
           </div>
           
           <div class="content">
